@@ -1,0 +1,47 @@
+body{
+    background-color: #e4f9f5;
+    color: hsl(180, 41%, 57%);
+    text-align: center;
+}
+.cloud1{
+    height: 55px;
+    width: 120px;
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+.title-text{
+   
+}
+.me{
+    font-weight: bold;
+    font-size: 5.625rem;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Sacramento', cursive;
+    margin: 100px auto 0 auto;
+}
+.who{
+}
+.cloud2{
+    height: 55px;
+    width: 120px;
+    position: absolute;
+    left: 250px;
+    bottom: 250px;
+}
+.working-at-night{
+    height: 200px;
+    width: 200px;
+    border-radius: 30px;
+    position: relative;
+    top: 100px;
+    bottom: 0;
+}
+span{
+    text-decoration: underline;
+}
+body{
+    margin:0;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'PT Serif', serif;
+}
